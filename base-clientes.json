@@ -1,0 +1,50 @@
+[
+  {
+    "nome": "DENTAL LAB LABORATORIO DE PROTESE",
+    "endereco": "AV: ACOCE",
+    "numero": "",
+    "bairro": "",
+    "cep": "",
+    "classificacao": "TECNICO EM PROTESE",
+    "cidade": "Sem cidade",
+    "uf": "SP",
+    "estado": "São Paulo",
+    "email": "dentallab.alexandre@gmail.com",
+    "fone1": "",
+    "fone2": "",
+    "fone3": "",
+    "fone4": ""
+  },
+  {
+    "nome": "ALCIO ROBERTO IKEDA",
+    "endereco": "AL TRANSIBULO PEREIRA DE SOUSA",
+    "numero": 285,
+    "bairro": "VL OLIVERO",
+    "cep": "17800-000",
+    "classificacao": "TECNICO EM PROTESE",
+    "cidade": "ADAMANTINA",
+    "uf": "SP",
+    "estado": "São Paulo",
+    "email": "alcioikeda@terra.com.br",
+    "fone1": "(18) 3251-1728",
+    "fone2": "",
+    "fone3": "",
+    "fone4": ""
+  },
+  {
+    "nome": "WILLIAN RICARDO BARALDI BORRO",
+    "endereco": "ALAMEDA SANTA CRUZ",
+    "numero": 387,
+    "bairro": "CENTRO",
+    "cep": "17800-000",
+    "classificacao": "DENTISTA",
+    "cidade": "ADAMANTINA",
+    "uf": "SP",
+    "estado": "São Paulo",
+    "email": "odontoart@hotmail.com",
+    "fone1": "(18) 3522-5054",
+    "fone2": "(18) 9 9707-5344",
+    "fone3": "",
+    "fone4": "(18) 9 9707-5344"
+  }
+]
